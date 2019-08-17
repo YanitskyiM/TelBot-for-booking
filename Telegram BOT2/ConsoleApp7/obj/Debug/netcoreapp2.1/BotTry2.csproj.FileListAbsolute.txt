@@ -1,0 +1,22 @@
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.deps.json
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.runtimeconfig.json
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.runtimeconfig.dev.json
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.dll
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.pdb
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.csprojAssemblyReference.cache
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.csproj.CoreCompileInputs.cache
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.AssemblyInfoInputs.cache
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.AssemblyInfo.cs
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.dll
+C:\Users\Mushko\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.pdb
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.deps.json
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.runtimeconfig.json
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.runtimeconfig.dev.json
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.dll
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\bin\Debug\netcoreapp2.1\BotTry2.pdb
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.csprojAssemblyReference.cache
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.csproj.CoreCompileInputs.cache
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.AssemblyInfoInputs.cache
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.AssemblyInfo.cs
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.dll
+C:\Users\Mushko\Desktop\С#\Telegram BOT2\ConsoleApp7\obj\Debug\netcoreapp2.1\BotTry2.pdb
